@@ -1,19 +1,19 @@
 const siteConfig = {
   personal: {
-    name: 'Baimam Boukar',
+    name: 'Nnouka Stephen',
     title: 'MSc @ Carnegie Mellon University',
     institution: 'CMU Africa',
     department: 'College of Engineering',
-    email: 'baimamboukar@gmail.com',
+    email: 'nnoukastephen@gmail.com',
     location: 'Kigali, Rwanda',
     avatar:
-      'https://github.com/user-attachments/assets/19771f37-ee31-43d6-a993-29de6929379c',
-    bio: '🥷 I am Designed For Failure',
+      'https://avatars.githubusercontent.com/u/19359827?v=4',
+    bio: 'We are all the same, just different.',
     social: {
-      email: 'mailto:baimamboukar@gmail.com',
-      github: 'https://github.com/baimamboukar',
-      linkedin: 'https://linkedin.com/in/baimamboukar',
-      twitter: 'https://twitter.com/baimamboukar',
+      email: 'mailto:nnoukastephen@gmail.com',
+      github: 'https://github.com/Nnouka',
+      linkedin: 'https://linkedin.com/in/nnoukastephen',
+      twitter: 'https://twitter.com/nnoukastephen',
     },
   },
   navigation: [
